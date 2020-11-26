@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "176815116357",
+    "firebase_url": "https://transportadora-bef69.firebaseio.com",
+    "project_id": "transportadora-bef69",
+    "storage_bucket": "transportadora-bef69.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176815116357:android:b7ec7a9dbac657379b932c",
+        "android_client_info": {
+          "package_name": "com.example.transportadora"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "176815116357-c0du75rfma9589rpseatmeqhkqmbrpeq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.transportadora",
+            "certificate_hash": "eeeec590eb1331d8198963245561b84ee977fae0"
+          }
+        },
+        {
+          "client_id": "176815116357-4m6keabifjmn6l6i5ktk9temuksf8aep.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBM56hiowwGm5aU_1FK6hgifgr6xGj57tQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "176815116357-4m6keabifjmn6l6i5ktk9temuksf8aep.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
